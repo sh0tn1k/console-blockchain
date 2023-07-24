@@ -1,0 +1,34 @@
+{
+  "response": {
+    "count": 3,
+    "notes": [
+      {
+        "index": 1,
+        "Text": "The first starting note hash_splitter_The first starting note",
+        "ClearText": "The first starting note",
+        "PreviousHash": "The first starting note hash",
+        "Hash": "00628c1602f70033f0d58214191739fc9e34d98a20002bb37bc0a0599f263f57",
+        "Proof": 0,
+        "Created_at": 1690183153.22015
+      },
+      {
+        "index": 2,
+        "Text": "00628c1602f70033f0d58214191739fc9e34d98a20002bb37bc0a0599f263f57_splitter_Oh! This is first note in my note blockchain",
+        "ClearText": "Oh! This is first note in my note blockchain",
+        "PreviousHash": "00628c1602f70033f0d58214191739fc9e34d98a20002bb37bc0a0599f263f57",
+        "Hash": "008985b8571edba624121ca678a26cf7523f052bea116f5afd3b789d6d878524",
+        "Proof": 14,
+        "Created_at": 1690183153.220221
+      },
+      {
+        "index": 3,
+        "Text": "008985b8571edba624121ca678a26cf7523f052bea116f5afd3b789d6d878524_splitter_I have 100 bitcoin in my wallet",
+        "ClearText": "I have 100 bitcoin in my wallet",
+        "PreviousHash": "008985b8571edba624121ca678a26cf7523f052bea116f5afd3b789d6d878524",
+        "Hash": "00ec8cc151e7e675bbd027a7e267df6d515d88671011e1cdc3b7706f92847a68",
+        "Proof": 261,
+        "Created_at": 1690183153.221257
+      }
+    ]
+  }
+}
